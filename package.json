@@ -4,12 +4,12 @@
   "private": true,
   "homepage": "https://eestevens.github.io/magicGathering",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.26.0",
     "prop-type": "0.0.1",
     "prop-types": "^15.6.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.0",
     "transcript": "0.0.6",
     "typescript": "^3.9.3",
     "yargs-parser": "^18.1.3"
