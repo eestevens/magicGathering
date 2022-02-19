@@ -48,7 +48,8 @@ class MainScreen extends Component {
             image : c.imageUrl,
             toughness : c.toughness,
             power : c.power,
-            flavor : c.flavor
+            flavor : c.flavor,
+            setName: c.setName
           };
         });
         const newState = Object.assign({}, this.state, {
