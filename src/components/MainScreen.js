@@ -34,7 +34,7 @@ class MainScreen extends Component {
 
   getData() {
     axios
-      .get("https://api.magicthegathering.io/v1/cards?set=ARB")
+      .get("https://api.magicthegathering.io/v1/cards?set=M21")
       .then(response => {
         // create an array of contacts only with relevant data
         const newObjectItems = response.data.cards.map(c => {

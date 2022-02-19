@@ -1,6 +1,8 @@
 # weblist
 Sample React App
 
+Page can be viewed [here](https://eestevens.github.io/magicGathering)
+
 In order to run
 
 1. Install npm/node
