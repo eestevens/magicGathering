@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/magicGathering/static/css/main.8cb833cf.css",
+    "main.js": "/magicGathering/static/js/main.7423e590.js",
+    "static/media/mtg-logo.jpg": "/magicGathering/static/media/mtg-logo.a241ef27f10f71fa08ba.jpg",
+    "index.html": "/magicGathering/index.html",
+    "main.8cb833cf.css.map": "/magicGathering/static/css/main.8cb833cf.css.map",
+    "main.7423e590.js.map": "/magicGathering/static/js/main.7423e590.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cb833cf.css",
+    "static/js/main.7423e590.js"
+  ]
+}
