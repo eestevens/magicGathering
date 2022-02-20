@@ -16,7 +16,7 @@ function ObjectList(props) {
     <div>{props.objectItems.map(c => <ObjectItem key={c.id}
       name={c.name} type={c.type} rarity={c.rarity}
       creatureText={c.creatureText} color={c.color} image={c.image}
-      toughness={c.toughness} power={c.power} flavor={c.flavor}/>)}</div>
+      toughness={c.toughness} power={c.power} flavor={c.flavor} setName={c.setName}/>)}</div>
   );
 }
 
