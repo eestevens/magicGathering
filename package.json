@@ -5,7 +5,7 @@
   "homepage": "https://eestevens.github.io/magicGathering",
   "dependencies": {
     "ajv": "8.16.0",
-    "axios": "1.7.2",
+    "axios": "1.13.5",
     "prop-type": "0.0.1",
     "prop-types": "15.8.1",
     "react": "16.14.0",
